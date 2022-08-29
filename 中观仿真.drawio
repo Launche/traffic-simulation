@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T05:42:25.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zO-XnrL1HstTk66vvKGg" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T05:55:08.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oplot7ymUIVi51TSggv_" version="20.2.7" type="github">
   <diagram id="c3Ni6FM0jdOyQD0ppWgl" name="第 1 页">
     <mxGraphModel dx="2514" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FkBZusHeuaD6sB63uChs-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="540" width="170" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-39" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="349.32" width="100" height="70.68" as="geometry" />
         </mxCell>
@@ -62,7 +65,7 @@
           <mxGeometry x="340" y="408.64" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-40" value="" style="whiteSpace=wrap;html=1;fontSize=13;strokeColor=#36393d;fillColor=#f9f7ed;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="500" width="368" height="271" as="geometry" />
+          <mxGeometry x="260" y="500" width="310" height="271" as="geometry" />
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-41" value="Traffic / Events / Vehicle&amp;nbsp;&lt;br&gt;Control" style="whiteSpace=wrap;html=1;fontSize=13;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
           <mxGeometry x="312.44" y="554" width="177.56" height="36" as="geometry" />
@@ -73,8 +76,8 @@
         <mxCell id="FkBZusHeuaD6sB63uChs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="755" />
-              <mxPoint x="560" y="531" />
+              <mxPoint x="530" y="755" />
+              <mxPoint x="530" y="531" />
               <mxPoint x="383" y="531" />
             </Array>
             <mxPoint x="390" y="755" as="sourcePoint" />
@@ -113,8 +116,8 @@
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-69" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="670" as="sourcePoint" />
-            <mxPoint x="200" y="670" as="targetPoint" />
+            <mxPoint x="302.5" y="620.5" as="sourcePoint" />
+            <mxPoint x="230" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-70" value="" style="whiteSpace=wrap;html=1;fontSize=13;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
@@ -146,6 +149,27 @@
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-42" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="364" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-78" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58.5" y="639" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-77" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="596.5" width="125" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-80" value="Update Capacity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="64.5" y="600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-81" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Update Vehicle Speed&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="642" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-82" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MesoVehicleMoveQueMode.cpp&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;1、delta_t时间段内Segment间的车辆移动，确定各队列最终有多少车辆&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;2、delta_t时间段内Segment内的车辆移动，确定各队列内每辆车的具体位置&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="910" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-86" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="555.5" width="125" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FkBZusHeuaD6sB63uChs-87" value="Sort Vehicles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="559" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
