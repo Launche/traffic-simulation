@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T03:52:03.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OQ5tsp53SpBPjygeEayz" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T03:53:33.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m8WMKMC8xhlx_VUWVgGn" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2234" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -384,6 +384,15 @@
         </mxCell>
         <mxCell id="7FVITdX9QSH98migV2-N-125" value="distributed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="932" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7FVITdX9QSH98migV2-N-126" value="txVehicles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="505.5" y="877" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7FVITdX9QSH98migV2-N-127" value="txVehicles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="873.96" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7FVITdX9QSH98migV2-N-128" value="Manerger&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="832" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
