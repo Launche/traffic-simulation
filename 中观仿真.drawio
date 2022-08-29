@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T06:47:50.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yrdq6RGSLnD5z9Qxmsem" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T06:47:55.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bbozpeUnba9Tlq7ww5eh" version="20.2.7" type="github">
   <diagram id="c3Ni6FM0jdOyQD0ppWgl" name="第 1 页">
     <mxGraphModel dx="2186" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,12 +167,6 @@
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-87" value="Sort Vehicles&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="78.5" y="559" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FkBZusHeuaD6sB63uChs-88" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="496.63" y="672.5" as="sourcePoint" />
-            <mxPoint x="630" y="670" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FkBZusHeuaD6sB63uChs-89" value="segment level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="668.5" width="100" height="30" as="geometry" />
